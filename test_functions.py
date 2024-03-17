@@ -58,6 +58,7 @@ class Tests(unittest.TestCase):
                 except self.failureException as e:
                     # Print out an error message
                     print_fail()
+                    print(predicted_label)
                     print("Warning: A red light is classified as green.")
                     print('\n'+str(e))
                     return
