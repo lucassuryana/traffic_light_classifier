@@ -1,4 +1,4 @@
-# Route planner with A* algorithm (python)
+# Traffic light classifier algorithm (python)
 - This is the project from [Udacity's Introduction to Self-Driving Cars Nanodegree Program](https://learn.udacity.com/nanodegrees/nd113).
 - The code was developed based on the assignment from the Nanodegree program. 
 - The assignment was to code a classifier for images of traffic lights that is recorded from self-driving cars.
